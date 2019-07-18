@@ -17,12 +17,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:    瓜皮小当家
+weibo_username:     瓜皮小当家
 zhihu_username:     cory-chan
 github_username:    Cjpro
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#facebook_username:  xxxxxx
+#jianshu_username:   xxxxxx
+#twitter_username:   xxxxxx
 
 
 
@@ -63,9 +63,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: Cjpro.github.io    #仓库名称
+  owner: Cjpro    #github用户名
+  admin: Cjpro
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -98,11 +98,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CQUPT",
+        href: "http://www.cqupt.edu.cn"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "师兄",
+        href: "https://blog.csdn.net/qq_34269988"
     },{
         title: "Apple",
         href: "https://apple.com"
