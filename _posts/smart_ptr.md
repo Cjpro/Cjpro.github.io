@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      C++动态内存和智能指针
+subtitle:   初探new,delete,shared_ptr
+date:       2019-08-20
+author:     Cory
+header-img: 
+catalog: true
+tags:
+    - C++
+---
 #C++动态内存
 了解动态内存在 C++ 中是如何工作的是成为一名合格的 C++ 程序员必不可少的。C++ 程序中的内存分为两个部分：
 
