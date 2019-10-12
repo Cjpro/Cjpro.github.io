@@ -7,7 +7,8 @@ author:     Cory
 header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
-    - c++ 容器
+    - c++
+    - stl
 ---
 最近在做项目的时候，看到这样一个代码：vector.reserve(mesh.n_vertices())我对这个reserve产生了好奇，查阅资料后，对reserve和resize有了更深的理解。
 # vector
