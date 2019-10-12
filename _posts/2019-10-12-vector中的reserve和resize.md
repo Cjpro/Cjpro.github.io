@@ -4,7 +4,7 @@ title:      容器vector中的reserve和resize
 subtitle:   reserve(),resize(),size(),capacity()
 date:       2019-10-12
 author:     Cory
-header-img: post-bg-re-vs-ng2.jpg
+header-img: img/post-bg-rwd.jpg
 catalog: true
 tags:
     - 小结
