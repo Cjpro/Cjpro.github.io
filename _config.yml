@@ -4,7 +4,7 @@ SEOTitle: 陈杰的博客 | Cory's Blog
 header-img: img/post-bg-desk.jpg
 email: cjcory@qq.com
 description: "Every failure is leading towards success."
-keyword: "Cory, Cory's Blog, 陈杰的博客, chenjie, cj, iOS, Apple, Mac"
+keyword: "Cory, Cory's Blog, 陈杰的博客, chenjie, cj, 陈杰, Apple, Mac"
 url: "https://cjpro.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -104,8 +104,8 @@ friends: [
         title: "师兄",
         href: "https://blog.csdn.net/qq_34269988"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "NGA",
+        href: "https://bbs.nga.cn/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
