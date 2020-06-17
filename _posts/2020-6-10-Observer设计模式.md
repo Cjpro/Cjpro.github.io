@@ -8,6 +8,8 @@ header-img: img/post-bg-unix-linux.jpg
 catalog: true
 tags:
     - C++
+    - 设计模式
+    - 网络编程
 ---
 # Observer设计模式
 
