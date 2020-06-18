@@ -60,10 +60,15 @@ ConcreteObserver：具体观察者，维护一个指向ConcreteSubject对象的�
 
 ```c++
 #include<iostream>
+
 #include<list>
+
 #include<unoreder_map>
+
 #include<stirng>
+
 #include<algorithm>
+
 using namespace std;
 
 //定义监听者基类
